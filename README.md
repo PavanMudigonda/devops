@@ -19,7 +19,7 @@
 - [Manage Linux Servers](https://opensource.com/article/20/11/cockpit-server-management)
 
 ### 4 — Learn Networking & Security Basics
--[IBM Guide on Networking Basics](https://www.ibm.com/cloud/learn/networking-a-complete-guide)
+- [IBM Guide on Networking Basics](https://www.ibm.com/cloud/learn/networking-a-complete-guide)
 
 ### 5 — Learn Scripting
 - [Bash/zsh/terminal](https://tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html#sect_02_02)
