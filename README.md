@@ -72,4 +72,11 @@ Python (MVC : Django)
 ## 18 - SRE concepts
 - [Google SRE](https://sre.google/)
 
-## 19 — Get certified as you learn
+## 19 — Best Places to learn
+- A Cloud Guru
+- Udemy
+- Pluralsight
+- Youtube
+- Github
+
+## 20 -- Get certified as you learn
