@@ -1,7 +1,8 @@
-Git
+
 ### 1 — Start By Learning About The Culture
 - [DevOps Basics - Microsoft Article](https://azure.microsoft.com/en-us/overview/devops-tutorial/#fundamentals)
 - [DevOps Basics - Amazon Article](https://aws.amazon.com/devops/what-is-devops/)
+
 ### 2 — Learn A Programming Language
 - [python](https://www.learnpython.org/)
 - [C#](https://www.learncs.org/)
