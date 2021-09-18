@@ -10,6 +10,8 @@ Git
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [Go](https://www.learn-golang.org/)
 - [Ruby](https://www.learnrubyonline.org/)
+- [YAML]()
+- [Groovy]()
 
 ### 3 — Learn How To Manage Servers(Linux,Windows,Mac)
 - [Manage Windows Servers](https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/use/manage-servers)
