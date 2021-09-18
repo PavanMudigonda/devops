@@ -11,8 +11,9 @@
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [Go](https://www.learn-golang.org/)
 - [Ruby](https://www.learnrubyonline.org/)
-- [YAML]()
-- [Groovy]()
+- [YAML](https://learn.getgrav.org/16/advanced/yaml)
+- [Groovy](https://groovy-lang.org/documentation.html)
+- [REST API](https://www.restapitutorial.com/)
 
 ### 3 — Learn How To Manage Servers(Linux,Windows,Mac)
 - [Manage Windows Servers](https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/use/manage-servers)
@@ -31,7 +32,8 @@
 - NoSQL(semi-structured) - xml, json -> AWS DynamoDB
 - NoSQL(unstructed) - videos, photos ->
 
-### 7 — Learn How to Install & Configure Middlewares
+### 7 — Learn basics of Installing & Configuring Middlewares
+-[IBM article on middleware](https://www.ibm.com/docs/en/cdfsp/7.6.1?topic=descriptions-middleware-install-configure)
 
 ### 8 — Learn basics of deploying Software
 - [Microsoft guide on deploying software](https://docs.microsoft.com/en-us/mem/configmgr/apps/deploy-use/deploy-applications)
