@@ -6,26 +6,27 @@ Python (MVC : Django)
 
 
 ## 1 — Start By Learning About The Culture
-- DevOps Basics
-- The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations Paperback
+- [DevOps Basics - Microsoft Article](https://azure.microsoft.com/en-us/overview/devops-tutorial/#fundamentals)
+- [DevOps Basics - Amazon Article](https://aws.amazon.com/devops/what-is-devops/)
 ## 2 — Learn A Programming Language
 - [python](https://www.learnpython.org/)
 - [C#](https://www.learncs.org/)
 - [Java](https://www.learnjavaonline.org/)
 - [JavaScript](https://www.learn-js.org/)
-- [TypeScript]
+- [TypeScript](https://www.typescriptlang.org/docs/)
 - [Go](https://www.learn-golang.org/)
-- [Ruby]()
+- [Ruby](https://www.learnrubyonline.org/)
 
 ## 3 — Learn How To Manage Servers(Linux,Windows,Mac)
+- [Manage Windows Servers](https://docs.microsoft.com/en-us/windows-server/manage/windows-admin-center/use/manage-servers)
+- [Manage Linux Servers](https://opensource.com/article/20/11/cockpit-server-management)
 
 ## 4 — Learn Networking & Security Basics
 
 ## 5 — Learn Scripting
-- Bash
-- cmd
-- shell(https://www.learnshell.org/)
-- terminal
+- Bash/zsh/terminal
+- commandline
+- shell/powershell(https://www.learnshell.org/)
 
 ## 6 - Learn Database Basics
 - [SQL](https://www.learnsqlonline.org/) -> MySQL, Microsoft SQL, Aurora PG
