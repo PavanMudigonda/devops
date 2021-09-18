@@ -5,7 +5,7 @@ Monitoring using icinga and
 Python (MVC : Django)
 
 
-1 — Start By Learning About The Culture
+#1 — Start By Learning About The Culture
 - DevOps Basics
 - 
 2 — Learn A Programming Language
