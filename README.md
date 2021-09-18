@@ -26,25 +26,32 @@ Git
 - [shell/powershell](https://www.learnshell.org/)
 
 ### 6 - Learn Database Basics
-- [SQL](https://www.learnsqlonline.org/) -> MySQL, Microsoft SQL, Aurora PG
-- NoSQL(semi-structured) - xml, json -> DynamoDB
+- [SQL](https://www.learnsqlonline.org/) -> MySQL, Microsoft SQL, Aurora PostGres
+- NoSQL(semi-structured) - xml, json -> AWS DynamoDB
 - NoSQL(unstructed) - videos, photos ->
 
 ### 7 — Learn How to Install & Configure Middlewares
 
-### 8 — Learn How To Deploy Software
+### 8 — Learn basics of deploying Software
+- [Microsoft guide on deploying software](https://docs.microsoft.com/en-us/mem/configmgr/apps/deploy-use/deploy-applications)
 
 ### 9 — Learn GIT / Github
 - [Github](https://github.com/)
 - [Pro Git book](https://git-scm.com/book/en/v2)
 
 ### 10 — Learn basics of Build Software Architecture and Design
+- [software design primer on github](https://github.com/donnemartin/system-design-primer)
 
 ### 11 — Learn How To Automate Your Software Testing and Deployment process
+- [Selenium 4](https://github.com/SeleniumHQ/selenium#readme)
+- [cypress](https://cypress.io)
+- [webdriver.io](https://webdriver.io)
+- [puppetter](https://developers.google.com/web/tools/puppeteer)
+- [playwright](https://playwright.dev)
 
 ### 12 — Learn Configuration Management
-- Ansible
-- Puppet
+- [Ansible](https://www.ansible.com/resources/get-started)
+- [Puppet](https://learn.puppet.com/)
 
 ### 13 — Learn Infrastructure As Code / Cloud
 - [AWS](https://aws.amazon.com/training/)
@@ -61,8 +68,8 @@ Git
 - [Kubernetes](https://kubernetes.io/docs/home/)
 
 ### 16 — Learn How To Deploy & Manage Serverless Applications
-- AWS Lambda
-- Azure Functions
+- [AWS Lambda](https://aws.amazon.com/lambda/getting-started/)
+- [Azure Functions](https://azure.microsoft.com/en-ca/services/functions/#documentation)
 
 ### 17 - Learn CI/CD pipeline tools
 - [Jenkins](https://www.cloudbees.com/cloudbees-university)
