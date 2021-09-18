@@ -60,6 +60,7 @@ Git
 
 ### 16 — Learn How To Deploy & Manage Serverless Applications
 - AWS Lambda
+- Azure Functions
 
 ### 17 - Learn CI/CD pipeline tools
 - [Jenkins](https://www.cloudbees.com/cloudbees-university)
@@ -69,10 +70,10 @@ Git
 - [Google SRE](https://sre.google/)
 
 ## 19 — Best Places to learn
-- A Cloud Guru
-- Udemy
-- Pluralsight
-- Youtube
-- Github
+- [A Cloud Guru](https://acloudguru.com/)
+- [Udemy](https://udemy.com/)
+- [Pluralsight](https://pluralsight.com/)
+- [Youtube](https://youtube.com/)
+- [Github](https://github.com/)
 
 ## 20 -- Get certified as you learn
