@@ -26,7 +26,7 @@
 
 ### 6 - Learn Database Basics
 - [SQL](https://www.learnsqlonline.org/) -> MySQL, Microsoft SQL, Aurora PostGres
-- NoSQL(semi-structured) - xml, json -> AWS DynamoDB
+- NoSQL(semi-structured) - xml, json -> AWS DynamoDB, MongoDB
 - NoSQL(unstructed) - videos, photos ->
 
 ### 7 - Learn REST APIs
@@ -90,4 +90,10 @@
 - [Youtube](https://youtube.com/)
 - [Github](https://github.com/)
 
-## 21 -- Get certified as you learn
+### 21 - BigData bascis
+
+### 22 - Data Analytics bascis
+
+## 23 - Artificial Intelligence basics
+
+## 24 -- Get certified as you learn
