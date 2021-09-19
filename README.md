@@ -92,7 +92,7 @@
 
 ### 21 - BigData bascis
 
-### 22 - Data Analytics bascis
+### 22 - Data Analytics basics
 
 ## 23 - Artificial Intelligence basics
 
