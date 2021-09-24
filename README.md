@@ -1,3 +1,5 @@
+![learning](https://cloud.githubusercontent.com/assets/8342133/12172223/a0db04b8-b575-11e5-9dfd-51fbf7c58de8.gif)
+
 
 ### 1 — Start By Learning About The Culture
 - [DevOps Basics - Microsoft Article](https://azure.microsoft.com/en-us/overview/devops-tutorial/#fundamentals)
@@ -98,15 +100,8 @@
 ## 23 - Artificial Intelligence basics
 
 ## 24 -- Get certified as you learn
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![learning](https://cloud.githubusercontent.com/assets/8342133/12172223/a0db04b8-b575-11e5-9dfd-51fbf7c58de8.gif)
 
 =======================================================================================================================
-
-### Hello world! We will try our best to make sure this is the finest curated list of all DevOps resources at one place. Help us by fixing our mistakes and adding more useful links. Thanks!
-
-
 
 | [Philosophy](#philosophy) :thought_balloon: | [Processes](#processes) :speech_balloon: | [Source Code Management](#source-code-management) :octocat: | [Build Automation](#build-automation) :arrows_counterclockwise: | [Continuous Integration](#continuous-integration) :arrows_counterclockwise: | [Continuous Delivery](#continuous-delivery) :arrows_counterclockwise: |
 |---------------------------------------------|------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-----------------------------------------------------------------------|
