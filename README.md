@@ -116,10 +116,6 @@
 |                                              |                                                 |                                  |                         |                                              |                                                 |                                  |
 
 
-* [Conferences and Meet-ups](#conferences) :video_camera:
-
-* [Contributing](#contributing)
-* [License](#license)
 
 ## Philosophy
 
